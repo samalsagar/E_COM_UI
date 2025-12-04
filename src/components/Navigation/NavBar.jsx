@@ -1,7 +1,7 @@
 import React from 'react'
 import Wishlist from '../common/Wishlist'
 import Accounticon from '../common/Accounticon'
-import { CartIcon } from '../../../../shopEase/UI/src/components/common/CartIcon'
+import { CartIcon } from '../common/CartIcon'
 
 const Navigation = () => {
     return (
