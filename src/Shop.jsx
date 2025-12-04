@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Navigation from './components/Navigation/navigation'
+import Navigation from './components/Navigation/NavBar'
 import HeroSection from './components/HeroSection/HeroSection'
 
 function Shop() {
